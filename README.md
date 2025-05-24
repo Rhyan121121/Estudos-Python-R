@@ -1,1 +1,2 @@
 # Trilha Python DIO
+Curso onde tive diversos aprendizados diferentes com a Linguagem Python. Nesse curso percorremos diversos tópicos diferentes como Fundamentos,Listas,Tuplas, dicionários, POO e muito mais.
